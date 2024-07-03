@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/IMG5.webp";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "where the creation of project";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "LoginSingup",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Creation of login and signup pages using javascrpit with validations.",
+    url: "https://github.com/AKITIAKSHAYA/Loginsignjs",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Ehome Webpage",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Frontend creation of a ehome webpage using the languages like react,javascript.",
+    url: "https://github.com/AKITIAKSHAYA/frontend",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Created my resume Portfolio using bothe languages HTML and CSS in the vscode.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Tourist App",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is created to store the data where the person want to go and created using Springboot, Postman, MySQL.",
+    url: "https://github.com/AKITIAKSHAYA/tourist-app",
   },
 ];
 
